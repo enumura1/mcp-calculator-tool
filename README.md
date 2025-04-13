@@ -74,4 +74,4 @@ Add the following content to the Claude for Desktop configuration file (`claude_
 
 For more details, please refer to the following article:
 
-- [Creating a Simple Arithmetic MCP Server and Using it with Claude for Desktop](https://qiita.com/enumura1/items/9b372f71f2af1bd22f22) (in Japanese)
+- [Creating a Simple Arithmetic MCP Server and Using it with Claude for Desktop](https://qiita.com/enumura1/items/9b372f71f2af1bd22f22)
